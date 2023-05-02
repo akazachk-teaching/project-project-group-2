@@ -9,3 +9,5 @@ Information about running the code:
 * Allocation Model for True Preferences 
 * Comparison of results between all three models 
 3. View results 
+
+* Each cell has its own comments to clearly state what each cell obtains

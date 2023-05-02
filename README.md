@@ -10,4 +10,4 @@ Information about running the code:
 * Comparison of results between all three models 
 3. View results 
 
-* Each cell has its own comments to clearly state what each cell obtains
+It should be noted that each cell has its own comments to clearly state what each cell obtains.
